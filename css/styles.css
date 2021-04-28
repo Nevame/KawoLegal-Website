@@ -1,0 +1,183 @@
+.logo{
+display: inline-block;
+
+}
+
+.my-navbar {
+	border:none;
+	background-color: transparent;
+}
+
+.jumbotron {
+	height: 100vh;
+
+
+	
+	
+}
+
+.jk {
+	background-color: rgba(49, 12, 12, 0.76);
+	width:100%;
+	height: 100vh;
+	margin- top:0px;
+}
+
+
+.over-lay{
+	width: 100%;
+	height: 120vh;
+	background: #D14233;
+	opacity:.5;
+	position:absolute;
+	z-index:1;
+}
+
+#homebutton {
+	border:1px solid #D14233;
+	height: 30px;
+	margin:auto;
+}
+
+.text {
+	color: white;
+	font-stretch: extra-expanded;
+
+}
+
+.text h2 {
+	font-size: 300%;
+	font-weight: 500;
+}
+
+.text p {
+	font-size:200%;
+}
+
+
+
+
+.footer {
+	background-color: rgb(59, 12, 12);
+	height: 10vh;
+}
+
+.copy {
+	margin-top: 30px;
+	color: #fff;
+}
+
+
+
+}
+
+
+
+
+<--Startup-->
+
+.mx {
+	border: 1px solid black;
+	background-color: #1c000a;
+}
+
+.search-button {
+	width:70%;
+	margin: auto;
+}
+
+.img-responsive {
+	height: 60px;
+	width: 80px;
+	margin-left: 200px;
+	margin-top: 30px;
+}
+
+.my-container-fluid{
+	height: 105px;
+	background-color: rgb(59, 12, 12);
+
+}
+
+.nav-text {
+	vertical-align: middle;
+	margin-top: 25px;
+}
+
+.search {
+	background: blue;
+	color: #fff;
+}
+
+
+.search-icon {
+	margin-right: 4px;
+}
+
+
+
+
+<--Form-->
+
+.my-form {
+	width: 90px;
+}
+
+.register-footer{
+	margin-top:50px;
+	height: 7vh;
+}
+
+
+#nav-text{
+	color:#D14233;
+}
+#nav-text a:hover {
+	
+	color:#bb3c3c;
+
+}
+
+#nav-text a.active {
+	border: 2px solid #D14233;
+	
+}
+
+.navbar-default .navbar-nav>a{
+color: #bb3c3c;	
+}
+
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #bb3c3c;
+    background-color: transparent;
+    border: 2px solid #bb3c3c;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #a92222;
+}
+
+.social {
+	font-size:40px;
+	margin-right:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
